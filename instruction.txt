@@ -1,0 +1,5 @@
+1.Write your Db settings to class-db.php
+2.Create azure account and make new application
+https://portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationsListBlade
+3.Enter your callbackURL, client_id and client_secret from azure into config.php
+4.Enter your item_id from table URL into new-row.php
